@@ -1,4 +1,5 @@
 # Karandeep's UX Portfolio
+![alt text](/assest/image.png)
 
 
 ## UX Team Project
