@@ -1,5 +1,5 @@
 # Karandeep's UX Portfolio
-### Hello! My name is Karandeep Dhillon and this is my UX Portfolio. I am a computer science major at CSU Chico. 
+Hello! My name is Karandeep Dhillon and this is my UX Portfolio. I am a computer science major at CSU Chico. 
 
 ![alt text](/assets/image.png)
 
