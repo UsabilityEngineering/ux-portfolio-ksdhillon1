@@ -18,5 +18,5 @@ Since they did not add a grades tab, I assumed the only place to look was in the
 
 
 
-![alt text](../assets/moretab.png)                             ![alt text](../assets/grades.png)
+![alt text](../assets/moretab.png)                                             ![alt text](../assets/grades.png)
 
