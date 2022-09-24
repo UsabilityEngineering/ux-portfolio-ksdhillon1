@@ -14,9 +14,13 @@ When I opened the app, I was prompted with this home page that looked similar to
 ![alt text](../assets/homepage.png)
 
 
-Since they did not add a grades tab, I assumed the only place to look was in the "more tab" similar to how it was before. When I clicked on the "more" tab, I was pleased to find a grades icon/tab. I clicked on the grades icon and was prompted to blank screen under "current" section. This is where I had gotten a little confused because there was **nothing indicating an error has error or how to go about to fix it**.
+Since they did not add a grades tab, I assumed the only place to look was in the "more" tab similar to how it was before. When I clicked on the "more" tab, I was pleased to find a grades icon/tab. I clicked on the grades icon and was prompted to blank screen under the default "current" section. This is where I had gotten a little confused because there was **nothing indicating an error has error or how to go about to fix it**. There also was not a **visibility of system status** but I assumed the page had successfully loaded with nothing to display. On the previous version, a green check mark or red X mark would appear on the bottom to indicate whether a certain page loaded successfuly. I did not seem to encounter that. 
 
 
 
 ![alt text](../assets/moretab.png)                                             ![alt text](../assets/grades.png)
+
+
+
+I just assumed this was a bug in the new version of the app and carried on to find my grades by clicking on "current" as I assumed it would prompt a drop down menu to pick a semester. My assumption was correct and I clicked on "Fall 2022." From here I was able to click on each course and view my grades. This seemed to be an extra step from the previous layout because in the previous layout you would see your grades for all your classes in one screen instead of having to click on each one individually. 
 
