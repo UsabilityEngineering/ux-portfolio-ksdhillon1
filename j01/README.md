@@ -16,3 +16,7 @@ When I opened the app, I was prompted with this home page that looked similar to
 
 Since they did not add a grades tab, I assumed the only place to look was in the "more tab" similar to how it was before. When I clicked on the "more" tab, I was pleased to find a grades icon/tab. I clicked on the grades icon and was prompted to blank screen under "current" section. This is where I had gotten a little confused because there was **nothing indicating an error has error or how to go about to fix it**.
 
+
+
+![alt text](../assets/grades.png)
+
