@@ -5,4 +5,4 @@ At my university (CSU Chico), we use a service called Blackboard that is the mai
 
 I am someone who is always eager to know my grade on all my assingments espically quizzes and tests so when I went to check my grades on the Blackboard mobile app, I noticed they had made a lot of new changes. 
 
-![alt text](../assets/ogicon.png)  ![alt text](../assets/newicon.png){:height="225px" width="225px"}
+![alt text](../assets/ogicon.png)  ![alt text](../assets/newicon.png {:height="225px" width="225px"})
