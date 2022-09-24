@@ -24,3 +24,6 @@ Since they did not add a grades tab, I assumed the only place to look was in the
 
 I just assumed this was a bug in the new version of the app and carried on to find my grades by clicking on "current" as I assumed it would prompt a drop down menu to pick a semester. My assumption was correct and I clicked on "Fall 2022." From here I was able to click on each course and view my grades. This seemed to be an extra step from the previous layout because in the previous layout you would see your grades for all your classes in one screen instead of having to click on each one individually. 
 
+
+![alt text](../assets/dropdown.png)                                            ![alt text](../assets/grades2.png)                                        
+
