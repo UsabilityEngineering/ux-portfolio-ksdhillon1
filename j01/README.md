@@ -22,7 +22,7 @@ Since they did not add a grades tab, I assumed the only place to look was in the
 
 
 
-I just assumed this was a bug in the new version of the app and carried on to find my grades by clicking on "current" as I assumed it would prompt a drop down menu to pick a semester. My assumption was correct and I clicked on "Fall 2022." From here I was able to click on each course and view my grades. This seemed to be an extra step from the previous layout because in the previous layout you would see your grades for all your classes in one screen instead of having to click on each one individually. 
+I just assumed this was a bug in the new version of the app and carried on to find my grades by clicking on "current" as I assumed it would prompt a drop down menu to pick a semester. My assumption was correct and I clicked on "Fall 2022." From here I was able to click on each course and view my grades. This seemed to be an extra step from the previous layout because in the previous layout you would see your grades for all your classes in one screen instead of having to click on each one individually. The functionality of the app seems to be the same with only design changes to make the app feel more aesthetically pleasing. I would argue that the older version was better in its usability and more **minimal in design.** I personally did not find any benefits or improvements over the previous version. Nonetheless, I was still able to accomplish my goal of checking my grades. 
 
 
 ![alt text](../assets/dropdown.png)                                            ![alt text](../assets/grades2.png)                                        
