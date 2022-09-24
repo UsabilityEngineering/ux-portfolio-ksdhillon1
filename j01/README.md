@@ -12,4 +12,4 @@ OLD:                                     NEW:
 
 When I opened the app, I was prompted with this home page that looked similar to previous version except now there are four tabs on the bottom. Before the new version, the "more" tab was located on the top left and when it was clicked the page would expand with multiple sections and you can click on "grades" to go directly into grades. The "more" tab was also the only tab and the centeral way of going to different section. Now you go directly to stream, calendar, and courses using the bottom navigation bar. 
 
-![alt text](../assets/homepage.pgn)
+![alt text](../assets/homepage.png)
