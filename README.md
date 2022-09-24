@@ -9,4 +9,4 @@ Hello! My name is Karandeep Dhillon and this is my UX Portfolio. I am a computer
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Checking my grades on Blackboard App](j01/)
