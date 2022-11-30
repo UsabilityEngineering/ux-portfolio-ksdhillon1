@@ -10,3 +10,5 @@ Hello! My name is Karandeep Dhillon and this is my UX Portfolio. I am a computer
 ## UX Journal
 
 [Checking my grades on Blackboard App](j01/)
+
+[jornal2holder](j02/)
