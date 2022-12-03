@@ -9,5 +9,8 @@ After clicking "new mail":
 
 I filled out the recieptant, subject line, and body. All I needed to do now was add the PDF and send the email. However, I found myself being lost and stuck since I could not see any button to add an attachment. From my previous experience, there would be a paper click icon/button that I would click to prompt me to add any attachments. I had began looking for a paper clip icon within the email form area. I gradually expanded to looking at all areas on the page for the paper clip, but as the image above illustrates, there was no paper clip icon. 
 
-After clicking around, I was sure the
+After clicking around, I was convinced that if I was going to add an attachment it would be through the heading area on the page. 
 ![alt text](../assets/mainarea.png) 
+
+As a result of blank, I started to just go through all the tabs one by one from left to right. I had clicked on the "view" tab, then the "help" tab, and then eventaully found what I had been looking for in the "messages" tab. I saw the paper clip and was finally reliefed that I was able to add an attachment to this email. 
+![alt text](../assets/paperclip.png)
