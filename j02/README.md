@@ -7,4 +7,4 @@ I needed to email a PDF to one of my professors, so I logged into my Outlook acc
 After clicking "new button": 
 ![alt text](../assets/emailhome.png) 
 
-I filled out the recieptant, subject line, and body. All I needed to do now was add the PDF and send the email. However, I found myself being lost and stuck since I could not see any button to add an attachment. From my previous experience, there would be a paper click icon/button that I would click to prompt me to add any attachments. I had began looking for a paper clip icon within the email form area. I gradually expanded to looking at all areas for the paper clip. 
+I filled out the recieptant, subject line, and body. All I needed to do now was add the PDF and send the email. However, I found myself being lost and stuck since I could not see any button to add an attachment. From my previous experience, there would be a paper click icon/button that I would click to prompt me to add any attachments. I had began looking for a paper clip icon within the email form area. I gradually expanded to looking at all areas on the page for the paper clip, but as the image above illustrates, there was no paper clip icon. 
