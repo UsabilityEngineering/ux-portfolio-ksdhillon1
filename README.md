@@ -6,6 +6,7 @@ Hello! My name is Karandeep Dhillon and this is my UX Portfolio. I am a computer
 
 ## UX Team Project
 
+**[Fridge](https://usabilityengineering.github.io/fridge/)**
 
 ## UX Journal
 
