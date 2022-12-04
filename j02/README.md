@@ -12,5 +12,5 @@ I filled out the recipient, subject line, and body. All I needed to do now was a
 After clicking around, I was convinced that if I was going to add an attachment it would be through the heading area on the page. 
 ![alt text](../assets/mainarea.png) 
 
-As a result of blank, I started to just go through all the tabs one by one from left to right. I clicked on the "view" tab, then the "help" tab, and then eventually found what I had been looking for in the "messages" tab. I saw the paper clip and was finally relieved that I was able to add an attachment to this email. 
+As a result of **ADD STUFF HERE**, I started to just go through all the tabs one by one from left to right. I clicked on the "view" tab, then the "help" tab, and then eventually found what I had been looking for in the "messages" tab. I saw the paper clip and was finally relieved that I was able to add an attachment to this email. 
 ![alt text](../assets/paperclip.png)
